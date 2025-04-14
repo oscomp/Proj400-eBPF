@@ -3,9 +3,7 @@
 
 项目名称：基于eBPF技术的内核漏洞缓解
 
-项目链接：https://os.educg.net/?token=5uvaGTmqvwLOmF0D5wbPohy1XJ9ACfAKsla6cgdWfx#/sList?TYPE=2025OS_F
-
-导师信息：甄鹏、13386402876、zhenpeng@ieisystem.com
+导师信息：甄鹏、zhenpeng@ieisystem.com
 
 难度：高
 
